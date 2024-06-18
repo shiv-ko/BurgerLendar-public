@@ -16,6 +16,7 @@ Todoリストは期限の近いものからスケジュールに組み込まれ�
 # DEMO      
 デモページ URL「[https://main.d29kb7kvs692vl.amplifyapp.com/　](https://burgerlendar-deploy-hxkpct0n7-kouki-shibatas-projects.vercel.app)」     
 ※デモページは各種 API の有効期限切れで動作しない恐れがあります。     
+デモ動画URL「https://youtu.be/XawGx03y0QE」
 
 # 使用技術     
 React/TypeScript      
